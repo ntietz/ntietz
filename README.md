@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-I'm a software engineer, Pythonista, Rustacean, and proud member of team vim. Currently employed by Remesh. 100% fueled by coffee, 50% of it decaffeinated.
+I'm a software engineer, Pythonista, Gopher, Rustacean, and proud member of team vim. Currently employed by Remesh. 100% fueled by coffee, 50% of it decaffeinated.
 
 You can find my writing on [my blog](https://ntietz.com). It's updated sporadically.
 
